@@ -2,7 +2,7 @@
 So far, we've learned how to set up VS Code, create our own GitHub account, and write our first Python code. In this assignment, you and your partner will work together to create a shared repository containing code of your design.
 
 #### Activities/discussions
-1. Create a shared repository.
+1. Create a shared repository between you, your partner, and the instructor.
 2. Discuss the concepts you and your partner learned this week. What was the most challenging, and what excites you the most? Why?
 3. From in-class activities, we were able to write lines of code that simulate various simple calculators and "chatbots" from what we've learned so far. Discuss what other programs might be possible to make solely with variable assignment, input/output, and expressions.
 
