@@ -3,7 +3,7 @@ So far, we've learned how to set up VS Code, create our own GitHub account, and 
 
 #### Activities/discussions
 1. Create a shared repository between you, your partner, and the instructor.
-2. Discuss the concepts you and your partner learned this week. What was the most challenging, and what excites you the most? Why?
+2. Discuss the concepts you and your partner learned this week. What was the most challenging, and what excites you the most? Why? Check the Board of Increasing Knowledge in the classroom and tape new index cards on it with anything — either a description of a key concept or an example of it — that's not yet on the board.
 3. From in-class activities, we were able to write lines of code that simulate various simple calculators and "chatbots" from what we've learned so far. Discuss what other programs might be possible to make solely with variable assignment, input/output, and expressions.
 
 #### Assignment details/submission
